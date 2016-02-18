@@ -101,7 +101,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'test098f6bcd4621d373cade4e832627b4f6','','test','test','86, boulevard vivier merle','test@test.com','2015-11-08 15:39:16',1,1);
+INSERT INTO `users` VALUES (1,'098f6bcd4621d373cade4e832627b4f6','','test','test','86, boulevard vivier merle','test@test.com','2015-11-08 15:39:16',1,1);
 /* MDP : test*/
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
